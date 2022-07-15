@@ -17,3 +17,5 @@
    - Names should not be stored in a separate table in the database.
 
 3. List 3 tasks that can be accomplished with native SQL that you cannot do with JPQL
+- With JPQL you can update and delete any fields.
+- Also you can order by any data type.
