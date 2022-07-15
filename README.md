@@ -1,4 +1,4 @@
-# Lab Relationships(3.06)
+# Intermediate JPA Lab(3.06)
 ## Specifications
 
 1. Using Spring JPA model the relationships of the below application:
